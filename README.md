@@ -21,5 +21,4 @@ A currency converter that allows users to convert between multiple currencies in
 - Fetching and updating exchange rates in real-time.
 - Ensuring accurate and responsive UI design.
 
-## Live Demo
-[Live Demo](http://127.0.0.1:5500/Index.html)
+
